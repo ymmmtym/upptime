@@ -86,9 +86,9 @@
     "url": "https://keywoo.yumenomatayume.net/",
     "icon": "https://icons.duckduckgo.com/ip3/keywoo.yumenomatayume.net.ico",
     "slug": "keywoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +98,7 @@
     "timeMonth": 1282,
     "timeYear": 754,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-01-29": 25
     }
   }
